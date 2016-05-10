@@ -1,5 +1,8 @@
 # The Skeleton Quest
 Chelin Tutorials - The Skeleton Quest RPG
+Python RPG made with Pygame
+
+![alt tag](http://i.imgur.com/NA43ODq.jpg)
 
 Requirements:
 *Python 2.7+
