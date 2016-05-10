@@ -2,6 +2,7 @@
 #Use it for education only
 #www.chelintutorials.com
 #youtube.com/ChelinTutorials
+#for a new cool game checkout: www.littlewaronline.com
 
 import pygame
 import random
